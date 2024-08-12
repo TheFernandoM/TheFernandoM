@@ -1,10 +1,30 @@
-## WELCOME
-\[Titles\]:
-Writer 📝,
-Learner & Problem Solver 🌌,
-Translator & Language expert (sorta) 🗣,
+#### #0 - README - this space is about me & related documents 🏄‍♂️
+_Learn, Serve, Grow -> Uplift_
 
-Fullstack dev 💻
+#### #1 - Welcome!
+You're here, so welcome! 
+
+Feel free to take a look around. 
+
+#### #2 - Introduction:
+
+The purpose of this space is to have a public, central, location for ideas & tech that I want to share or build together.
+
+#### #3 - About Fernando:
+
+Some past titles include...
+
+  * Writer 📝,
+  * Learner & Problem Solver 🌌,
+  * Student & Mentor 👨‍🏫,
+  * Translator & Language expert (sorta) 🗣,
+
+  * **\[Fullstack dev 💻\]**
+  * 
+Throw interesting problems at me, I'll give creative solutions and handle the tedious thinking.
+
+#### #4 - Collected works:
+<TBD>
 <!--
 **TheFernandoM/TheFernandoM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
