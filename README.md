@@ -16,7 +16,7 @@
 
 #### #2 | - Purpose
 
- The purpose of this space is to have a public, central, location for ideas & tech that I want to share or build together.
+ The purpose of this space is to have a public and central location for ideas & tech that I want to share or build together.
 
 #### #3 | - About Fernando
 
