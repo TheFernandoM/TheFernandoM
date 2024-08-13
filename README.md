@@ -1,52 +1,38 @@
-#### #0 - README - this space is about me & related documents 🏄‍♂️
+
+### #0 | - README - _about me & related documents_ 🏄‍♂️  
+
+##### Table of Contents
+
+1. [Welcome!](#1----welcome)
+2. [Purpose](#2----purpose)
+3. [About Fernando](#3----about-fernando)
+4. [Collected Works](#4----collected-works)
+---
+
+#### #1 | - Welcome!
+
+ You're here, so welcome!  
+ Feel free to take a look around. 
+
+#### #2 | - Purpose
+
+ The purpose of this space is to have a public, central, location for ideas & tech that I want to share or build together.
+
+#### #3 | - About Fernando
+
+Some past titles include...  
+  * **FULLSTACK DEV 💻** 
+  * Writer 📝, 
+  * Learner & Problem Solver 🌌, 
+  * Student & Mentor 👨‍🏫, 
+  * Translator & Hobby Linguist 🗣, 
+  * Documenter 📃
+
+~  
+Throw interesting problems at me, I'll give creative solutions and handle the tedious thinking for you.
+
+#### #4 | - Collected works:
+
+_coming soon..._
+---
 _Learn, Serve, Grow -> Uplift_
-
-#### #1 - Welcome!
-You're here, so welcome! 
-
-Feel free to take a look around. 
-
-#### #2 - Introduction:
-
-The purpose of this space is to have a public, central, location for ideas & tech that I want to share or build together.
-
-#### #3 - About Fernando:
-
-Some past titles include...
-
-  * Writer 📝,
-  * Learner & Problem Solver 🌌,
-  * Student & Mentor 👨‍🏫,
-  * Translator & Language expert (sorta) 🗣,
-
-  * **\[Fullstack dev 💻\]**
-  * 
-Throw interesting problems at me, I'll give creative solutions and handle the tedious thinking.
-
-#### #4 - Collected works:
-<TBD>
-<!--
-**TheFernandoM/TheFernandoM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
