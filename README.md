@@ -1,5 +1,5 @@
 
-### #0 | - README - _about me & related documents_ 🏄‍♂️  
+### #0 | - README.md - _about me & related documents_ 🏄‍♂️  
 
 ##### Table of Contents
 
