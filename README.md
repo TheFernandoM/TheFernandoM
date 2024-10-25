@@ -33,7 +33,7 @@
   * **SOFTWARE DEVELOPER 💻** (now Fullstack! wow)
   * Writer 📝, 
   * Learner & Problem Solver 🌌, 
-  * Student & Mentor 👨‍🏫, 
+  * Student & Mentor/Teacher 👨‍🏫, 
   * Translator & Hobby Linguist 🗣, 
   * Documenter 📃
 
