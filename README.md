@@ -58,7 +58,7 @@ _TODO_
 I write code & deploy apps, I love languages & learning.  
 Tough questions & the weird mysteries of the universe are what make me smile 😄🤓
 
-``
+```
 Communication -- using words to build the future, overcome barriers, and make ideas come to life! 🌐
 ```
 
