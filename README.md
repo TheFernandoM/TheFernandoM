@@ -11,6 +11,8 @@
 !
     1. [Titles](#professional-titles)
 4. | [Collected Works](#4----collected-works)
+
+5. | [Skills](#5----skills)
 \* 
 
 ↓↓ [tl;dr (too long, go down)](#tldr) ↓↓
@@ -38,9 +40,12 @@
 #### #4 | - Collected works:
 
 _coming soon..._
+_TODO_
 
-#### #5 | - Recruiter Bingo
+#### #5 | - Skills
 
+ _TODO_
+ 
 | Skill | Y/N |
 | ----------- | ----------- |
 | cloud? | (azure) |
@@ -51,16 +56,12 @@ _coming soon..._
 ## tl;dr  
 
 I write code & deploy apps, I love languages & learning.  
-Tough questions & the weird mysteries of the universe are what make me smile 😄
+Tough questions & the weird mysteries of the universe are what make me smile 😄🤓
 
+``
 Communication -- using words to build the future, overcome barriers, and make ideas come to life! 🌐
-
-\[YOU] Give interesting challenges & ideas
-\[I] Return creative solutions & handle the tedious thinking
-
-_Envisioning new ways that technology can change our lives, even for non-experts._
-_Each leap gives smaller teams more leverage_
+```
 
 ---
 <sub>_Learn, Serve, Grow -> Uplift_<sub>
-<!-- this line has no text, on purpose -->
+<!-- ( THIS COMMENT IS HERE ON PURPOSE) -->
