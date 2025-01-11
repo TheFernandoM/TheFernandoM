@@ -32,10 +32,10 @@
 ##### Professional Titles 
   * **SOFTWARE DEVELOPER 💻** (Fullstack)
   * **AI ALIGNMENT RESEARCHER**
-  * Writer 📝, 
-  * Learner & Problem Solver 🌌, 
-  * Student & Mentor/Teacher 👨‍🏫, 
-  * Translator & Hobby Linguist 🗣, 
+  * Writer 📝 
+  * Learner & Problem Solver 🌌 
+  * Student & Mentor/Teacher 👨‍🏫 
+  * Translator & Hobby Linguist 🗣 
   * Documenter 📃
 
 #### #4 | - Collected works:
