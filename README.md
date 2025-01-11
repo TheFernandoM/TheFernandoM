@@ -30,7 +30,8 @@
 
 #### #3 | - About Fernando
 ##### Professional Titles 
-  * **SOFTWARE DEVELOPER 💻** (now Fullstack! wow)
+  * **SOFTWARE DEVELOPER 💻** (Fullstack)
+  * **AI ALIGNMENT RESEARCHER**
   * Writer 📝, 
   * Learner & Problem Solver 🌌, 
   * Student & Mentor/Teacher 👨‍🏫, 
@@ -40,18 +41,10 @@
 #### #4 | - Collected works:
 
 _coming soon..._
-_TODO_
 
 #### #5 | - Skills
 
- _TODO_
- 
-| Skill | Y/N |
-| ----------- | ----------- |
-| cloud? | (azure) |
-| javascript? | Y | 
-| java......? | Y | 
-| C# | YY | 
+ _<in progress, find this on LinkedIn>_
 
 ## tl;dr  
 
